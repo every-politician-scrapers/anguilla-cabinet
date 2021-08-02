@@ -3,6 +3,10 @@
       "name": "Anguilla",
       "id": "Q25228"
     },
+    "country" : {
+      "name": "UK",
+      "id": "Q145"
+    },
     "cabinet": {
       "id": "Q107770719",
       "start": "2020-03-13",

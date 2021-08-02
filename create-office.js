@@ -15,8 +15,8 @@ module.exports = (label) => {
     claims: {
       P31:   { value: 'Q294414' }, // instance of: public office
       P279:  { value: 'Q83307'  }, // subclas of: minister
-      P17:   { value: meta.jurisdiction.id }, // country
-      P1001: { value: meta.jurisdiction.id }, // jurisdiction
+      P17:   { value: meta.country ? meta.country.id : meta.jurisdiction.id },
+      P1001: { value: meta.jurisdiction.id },
       P361: { // part of
         value: meta.cabinet.parent,
         references: { P854: meta.source.url },
