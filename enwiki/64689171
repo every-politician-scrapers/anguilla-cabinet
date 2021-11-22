@@ -1,0 +1,288 @@
+{
+  "title": "Ellis Webster",
+  "pageID": 64689171,
+  "categories": [
+    "Members of the House of Assembly of Anguilla",
+    "Premiers of Anguilla",
+    "Living people",
+    "Government ministers of Anguilla",
+    "Year of birth missing (living people)",
+    "People from Island Harbour, Anguilla",
+    "University of the Virgin Islands alumni",
+    "Yale School of Medicine alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ellis Lorenzo Webster is an Anguillan politician and physician.",
+              "formatting": {
+                "bold": [
+                  "Ellis Lorenzo Webster"
+                ]
+              }
+            },
+            {
+              "text": "He is the Premier of the British Overseas Territory of Anguilla, first elected when he led the Anguilla Progressive Movement to victory in the general election held on 29 June 2020.",
+              "links": [
+                {
+                  "text": "Premier",
+                  "type": "internal",
+                  "page": "Premier of Anguilla"
+                },
+                {
+                  "type": "internal",
+                  "page": "British Overseas Territory"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anguilla"
+                },
+                {
+                  "type": "internal",
+                  "page": "Anguilla Progressive Movement"
+                },
+                {
+                  "text": "general election",
+                  "type": "internal",
+                  "page": "2020 Anguillian general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ellis Webster"
+          },
+          "office": {
+            "text": "2nd Premier of Anguilla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Premier of Anguilla"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "30 June 2020"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor": {
+            "text": "Tim Foy Dileeni Daniel-Selvaratnam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tim Foy"
+              },
+              {
+                "type": "internal",
+                "page": "Dileeni Daniel-Selvaratnam"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Victor Banks",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victor Banks"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Ellis Lorenzo Webster"
+          },
+          "birth_place": {
+            "text": "Island Harbour, Anguilla",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Island Harbour, Anguilla"
+              }
+            ]
+          },
+          "party": {
+            "text": "Progressive Movement",
+            "links": [
+              {
+                "text": "Progressive Movement",
+                "type": "internal",
+                "page": "Anguilla Progressive Movement"
+              }
+            ]
+          },
+          "education": {
+            "text": "University of the Virgin Islands Yale School of Medicine",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of the Virgin Islands"
+              },
+              {
+                "type": "internal",
+                "page": "Yale School of Medicine"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Webster was born on Island Harbour.",
+              "links": [
+                {
+                  "text": "Island Harbour",
+                  "type": "internal",
+                  "page": "Island Harbour, Anguilla"
+                }
+              ]
+            },
+            {
+              "text": "Initially he studied dental therapy."
+            },
+            {
+              "text": "In 1986, Webster graduated from University of the Virgin Islands in biology.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of the Virgin Islands"
+                }
+              ]
+            },
+            {
+              "text": "In 1991, he graduated from Yale University School of Medicine, and specialised in Otorhinolaryngology at the University of Iowa.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yale University School of Medicine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Otorhinolaryngology"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Iowa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Webster first practised in Florida.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Florida"
+                }
+              ]
+            },
+            {
+              "text": "Around 2000, he returned to Anguilla."
+            },
+            {
+              "text": "In 2020, he was elected Premier of Anguilla.",
+              "links": [
+                {
+                  "text": "Premier",
+                  "type": "internal",
+                  "page": "Premier of Anguilla"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.caribbeanelections.com/knowledge/biography/bios/webster_ellis.asp",
+          "title": "Ellis Lorenzo Webster",
+          "website": "Caribbean Elections",
+          "access-date": "17 May 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "anguillapms"
+        },
+        {
+          "template": "bot and crown dependency heads of governments"
+        },
+        {
+          "template": "current heads of government in the uk and dependencies"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "anguilla-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Ellis Webster at caribbeanelections.com",
+            "links": [
+              {
+                "text": "Ellis Webster",
+                "type": "external",
+                "site": "http://www.caribbeanelections.com/knowledge/biography/bios/webster_ellis.asp"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
