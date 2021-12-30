@@ -1,7 +1,7 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q107772272,Kyle Hodge,Kyle Hodge,male,,,http://www.gov.ai/directory.php,Q107772309,Minister of Economic Development,Q107772272-D8ADE47C-16FD-4529-BB18-E095C6F4466F
-Q107772438,Haydn Hughes,Haydn Hughes,male,,,http://www.gov.ai/directory.php,Q107772441,Minister of MICUH,Q107772438-CD7837AD-12BA-4358-9E5D-FB169F73B895
-Q107772586,Kenneth Hodge,Kenneth Hodge,male,,,http://www.gov.ai/directory.php,Q107772588,Minister of Home Affairs,Q107772586-0CA2B941-5884-4715-8874-2DB3CA87E4C9
-Q55639564,Dee-Ann Kentish-Rogers,Dee-Ann Kentish-Rogers,female,1993-01-13,11,http://www.gov.ai/directory.php,Q107772038,Minister of Social Development,Q55639564-C5937749-CBE2-4C04-AFCA-2780AE34F6FD
-Q98079363,Ellis l. Webster,Ellis Webster,male,2000-01-01,7,http://www.gov.ai/directory.php,Q107772502,Minister of Finance,Q98079363-262E0F66-61F3-41CD-90CA-744AEDB66CBC
-Q98079363,Ellis Webster,Ellis Webster,male,2000-01-01,7,,Q493655,Premier of Anguilla,Q98079363-9491470f-4683-7f2d-1907-92c964f90d60
+wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
+Q107772272,Kyle Hodge,Kyle Hodge,male,,,http://www.gov.ai/directory.php,2021-08-02,Q107772309,Minister of Economic Development,2020-03-13,Q107772272-D8ADE47C-16FD-4529-BB18-E095C6F4466F
+Q107772438,Haydn Hughes,Haydn Hughes,male,,,http://www.gov.ai/directory.php,2021-08-02,Q107772441,Minister of MICUH,2020-03-13,Q107772438-CD7837AD-12BA-4358-9E5D-FB169F73B895
+Q107772586,Kenneth Hodge,Kenneth Hodge,male,,,http://www.gov.ai/directory.php,2021-08-02,Q107772588,Minister of Home Affairs,2020-03-13,Q107772586-0CA2B941-5884-4715-8874-2DB3CA87E4C9
+Q55639564,Dee-Ann Kentish-Rogers,Dee-Ann Kentish-Rogers,female,1993-01-13,11,http://www.gov.ai/directory.php,2021-08-02,Q107772038,Minister of Social Development,2020-03-13,Q55639564-C5937749-CBE2-4C04-AFCA-2780AE34F6FD
+Q98079363,Ellis l. Webster,Ellis Webster,male,2000-01-01,7,http://www.gov.ai/directory.php,2021-08-02,Q107772502,Minister of Finance,2020-03-13,Q98079363-262E0F66-61F3-41CD-90CA-744AEDB66CBC
+Q98079363,Ellis Webster,Ellis Webster,male,2000-01-01,7,,,Q493655,Premier of Anguilla,2020-06-30,Q98079363-9491470f-4683-7f2d-1907-92c964f90d60
