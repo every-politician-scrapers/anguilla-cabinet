@@ -1,0 +1,24 @@
+{
+    "jurisdiction": {
+      "name": "Anguilla",
+      "id": "Q25228"
+    },
+    "country" : {
+      "name": "UK",
+      "id": "Q145"
+    },
+    "cabinet": {
+      "id": "Q107770719",
+      "start": "2020-03-13",
+      "parent": "Q107770622"
+    },
+    "source": {
+        "url":   "http://www.gov.ai/directory.php",
+        "title": "Government of Anguilla - Government Directory",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/anguilla-cabinet"
+}
