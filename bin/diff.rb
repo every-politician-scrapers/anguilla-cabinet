@@ -8,7 +8,7 @@ SKIP = [
   ['---', 'Ellis Webster', 'Premier of Anguilla']
 ].freeze
 
-diff = EveryPoliticianScraper::Comparison.new('data/wikidata.csv', 'data/official.csv').diff
+diff = EveryPoliticianScraper::DecoratedComparison.new('data/wikidata.csv', 'data/official.csv').diff
                                          .reject { |row| SKIP.include? row }
 
 puts diff.sort_by { |r| [r.first, r[1].to_s] }.reverse.map(&:to_csv)
